@@ -1,4 +1,4 @@
-using System.Net.Mime;
+﻿using System.Net.Mime;
 using System.Text.Json.Serialization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
