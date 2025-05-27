@@ -1,0 +1,6 @@
+@GHLearning.EasyNLog.AppSentry_HostAddress = http://localhost:5195
+
+GET {{GHLearning.EasyNLog.AppSentry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

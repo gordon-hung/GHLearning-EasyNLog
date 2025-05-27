@@ -1,0 +1,6 @@
+@GHLearning.EasyNLog.AppElasticsearch_HostAddress = http://localhost:5265
+
+GET {{GHLearning.EasyNLog.AppElasticsearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
